@@ -1,4 +1,4 @@
-# tp-docker-hw-3-anne-syaglova# HW3: Docker + Bash (НИУ ВШЭ, ТП, БИ)
+# tp-docker-hw-3-anne-syaglova
 Проект состоит из двух основных сущностей:
 - **generator** — Python‑скрипт, который генерирует CSV‑файл с данными.
 - **reporter** — Node.js‑скрипт, который читает CSV и формирует HTML‑отчёт
